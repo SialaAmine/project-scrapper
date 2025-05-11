@@ -1,0 +1,7 @@
+flask
+uvicorn
+requests
+pydantic
+playwright
+fuzzywuzzy
+python-Levenshtein
